@@ -8,5 +8,5 @@ adapun sebagian besar proses modifikasi code dalam penelitian tersebut terdapat 
 
 Seluruh file telah tersedia secara default pada saat proses instalasi NS-3, tinggal penulis melakukan perekayasaan yang dilakukan dalam penelitian tersebut
 
-full paper : 
+full paper: 
 https://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/8224 
